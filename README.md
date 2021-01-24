@@ -5,7 +5,7 @@ Identification of Tomato Disease Types and Detection of Infected Areas Based on 
 resnet50 is used for transfer learning.
 
 The architecture of resnet50 is as follows - 
-![](images/resnet50-1.png)
+![](images/resnet50-2.png)
 
 
 

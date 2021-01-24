@@ -7,6 +7,8 @@ resnet50 is used for transfer learning.
 The architecture of resnet50 is as follows - 
 ![](images/resnet50-2.png)
 
+![](images/ResNet50-1.png)
+
 
 
 
